@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Mindbox.Figures.Lib\Mindbox.Figures.Lib.csproj" />
+  </ItemGroup>
+
 </Project>
